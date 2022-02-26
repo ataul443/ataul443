@@ -5,7 +5,6 @@
 
 I'm Shekh Ataul. A software engineer at [Bureau](https://bureau.id). Working on building 
 
-<br/>
 
 ### 🧑‍💻 Languages, For talking to machine
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
